@@ -44,6 +44,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetashah30&show_icons=true&locale=en&layout=compact" alt="hetashah30" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hetashah30&show_icons=true&locale=en" alt="hetashah30" /></p>
-<img src="https://raw.githubusercontent.com/hetashah30/hetashah30/output/snake.svg" alt="Snake animation" />
 
-###
