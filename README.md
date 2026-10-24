@@ -10,8 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=hetashah30&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-### GitHub Profile Trophy
-
 <p align="center">
   <img
     src="https://trophy.ryglcloud.net/?username=hetashah30&theme=onedark&row=1&column=6"
