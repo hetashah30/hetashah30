@@ -13,7 +13,10 @@
 ### GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hetashah30&theme=onedark&row=1&column=6" alt="GitHub Profile Trophies" />
+  <img
+    src="https://trophy.ryglcloud.net/?username=hetashah30&theme=onedark&row=1&column=6"
+    alt="GitHub Profile Trophies"
+  />
 </p>
 
 ---
